@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAD_Ind05_Nigam_Pooja</string>
+    <string name="title_activity_state_details">StateDetailsActivity</string>
+    <string name="title_activity_states_details">StatesDetailsActivity</string>
+</resources>
